@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.canvas {
+    border: 1px solid #000;
+}
+
+.suggestions {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.suggestions img {
+    margin: 5px;
+    width: 100px;
+    height: 100px;
+}
